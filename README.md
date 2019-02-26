@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/ashwininbhandari/ashwininbhandari/_apis/build/status/AshwiniPooja.newrepo%20(1)?branchName=master)](https://dev.azure.com/ashwininbhandari/ashwininbhandari/_build/latest?definitionId=3&branchName=master)
+
 [![Build Status](https://dev.azure.com/ashwininbhandari/ashwininbhandari/_apis/build/status/AshwiniPooja.newrepo?branchName=master)](https://dev.azure.com/ashwininbhandari/ashwininbhandari/_build/latest?definitionId=2&branchName=master) 
 # Contributing
 
